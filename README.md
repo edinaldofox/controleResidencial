@@ -1,0 +1,9 @@
+Referenc
+
+https://learn.adafruit.com/adafruit-arduino-lesson-4-eight-leds/breadboard-layout
+
+https://www.arduino.cc/en/Tutorial/ShiftOut
+
+http://www.comofazerascoisas.com.br/projeto-arduino-led-com-botao-liga-desliga.html
+
+https://www.arduino.cc/en/Reference/Array
